@@ -1,1 +1,1 @@
-# bitcoin
+# IC-Bitcoin
